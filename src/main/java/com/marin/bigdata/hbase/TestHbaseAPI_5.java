@@ -12,7 +12,7 @@ import org.apache.hadoop.hbase.util.Bytes;
 import java.io.IOException;
 
 /**
- * 测试hbase的api
+ * 功能：测试hbase的api
  */
 public class TestHbaseAPI_5 {
     public static void main(String[] args) throws IOException {
